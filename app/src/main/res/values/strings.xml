@@ -6,5 +6,14 @@
     <string name="americano_desc">Espresso with added hot water (100-150 ml). Often served in a cappuccino cup. (The espresso is added into the hot water rather than all the water being flowed through the coffee that would lead to over extraction.)</string>
     <string name="latte_title">CAFFE LATTE</string>
     <string name="latte_desc">A tall, mild \'milk coffee\' (about 150-300 ml). An espresso with steamed milk and only a little milk foam poured over it. Serve in a latte glass or a coffee cup. Flavored syrup can be added.</string>
+    <string name="cappuccino_title">CAPPUCCINO</string>
+    <string name="cappuccino_desc">Espresso mixed with steamed milk and topped with a thick layer of milk foam. Usually served in a cappuccino cup.</string>
+    <string name="espresso_title">ESPRESSO</string>
+    <string name="espresso_desc">A concentrated shot of coffee brewed by forcing hot water under high pressure through finely-ground coffee beans. Typically served in a small cup.</string>
+    <string name="macchiato_title">MACCHIATO</string>
+    <string name="macchiato_desc">An espresso topped with a small amount of foamed milk. Served in an espresso cup.</string>
+    <string name="mocha_title">MOCHA</string>
+    <string name="mocha_desc">A combination of espresso, hot chocolate, and steamed milk, topped with whipped cream. Usually served in a tall glass.</string>
     <string name="coffee_list">Coffee List</string>
+
 </resources>
